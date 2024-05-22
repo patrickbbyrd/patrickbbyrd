@@ -1,4 +1,4 @@
-👋 Hi, I’m @patrickbbyrd
+👋 Hi, I’m Patrick Byrd
 
 <!---
 patrickbbyrd/patrickbbyrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
